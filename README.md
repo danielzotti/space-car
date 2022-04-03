@@ -2,6 +2,8 @@
 
 A DOS videogame written in assembly language. I developed it for an exam at University in 2008.
 
+![Spacer videogame in action](images/pause.png)
+
 ## Commands
 
 - `Enter`: start
