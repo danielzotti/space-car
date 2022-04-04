@@ -4,6 +4,10 @@ A DOS videogame written in assembly language. I developed it for an exam at Univ
 
 ![Spacer videogame in action](images/pause.png)
 
+## Demo
+
+Here you have a [demo video](https://youtu.be/O3vanqQIQrU) on YouTube
+
 ## Commands
 
 - `Enter`: start
